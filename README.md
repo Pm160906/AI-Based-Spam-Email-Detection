@@ -28,7 +28,7 @@ Instead of relying on static rule-based filters, the system integrates Machine L
 | File / Folder                                      | Description                                                           |
 |----------------------------------------------------|-----------------------------------------------------------------------|
 | `ai based protocols for spam email detection.pdf`  | Full technical report                                                 |
-| `cross_validation_dataset.csv`                     | Dataset used for secondary validation                                 |
+| `email_spam_dataset.csv`                     | Dataset used for secondary validation                                 |
 | `final_icn.ipynb`                                  | Complete implementation: training, hybrid logic, protocol simulation  |
 | `introduction to computer networs.pdf`             | Summary presentation                                                  |
 
